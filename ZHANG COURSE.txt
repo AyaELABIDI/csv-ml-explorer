@@ -1,7 +1,0 @@
-AI: concept where we ask a machine to do a task without it thinking
-ML: AI learns from a pattern (supervised, unsupervised)
-DL: ML using neural network (for unstructed data)
-
-
-online learning: streaming data (ex from search bar) so the model needs to be changed permanantly
-
